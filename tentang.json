@@ -1,8 +1,5 @@
-{
-  "namaKedai": "Mie Ayam Pak Sun",
-  "deskripsi": "Mie Ayam Pak Sun berdiri sejak tahun 2005...",
-  "jamBuka": "Setiap hari, pukul 09.00 - 21.00 WIB",
-  "alamat": "Jl. Melati No. 45, Purwokerto",
-  "slogan": "Cita rasa legendaris, harga bersahabat!",
-  "imageUrl": "https://images.unsplash.com/photo-1605475128013-5d012b8dcfa0?auto=format&fit=crop&w=800&q=60"
-}
+[
+  {"id": 1, "nama": "Mie Ayam Original", "harga": 15000},
+  {"id": 2, "nama": "Mie Ayam Bakso", "harga": 18000},
+  {"id": 3, "nama": "Mie Ayam Pangsit", "harga": 17000}
+]
